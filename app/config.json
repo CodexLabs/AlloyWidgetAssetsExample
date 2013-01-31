@@ -1,0 +1,12 @@
+{
+    "global": {},
+    "env:development": {},
+    "env:test": {},
+    "env:production": {},
+    "os:ios": {},
+    "os:android": {},
+    "dependencies": {
+        "asset-test": "1.0",
+        "assetstest": "1.0"
+    }
+}
